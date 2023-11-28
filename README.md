@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Elixir chat app
 
 This repository contains code of a learning project called: "Elixir chat app".
